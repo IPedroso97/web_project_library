@@ -279,6 +279,7 @@
 }
 
 .person__image {
+  max-width: fit-content;
 }
 
 .person__image_size_l {
