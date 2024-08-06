@@ -237,6 +237,7 @@
   flex-basis: 780px;
   max-width: 780px;
   position: relative;
+  z-index: 0;
 }
 
 .events__image {
@@ -252,30 +253,47 @@
 }
 
 .person_name_feynman {
+  top: -30px;
+  left: 319px;
 }
 
 .person_name_burbidge {
+  top: 96px;
+  right: 125px;
 }
 
 .person_name_cannon {
+  bottom: 18px;
+  right: 216px;
 }
 
 .person_name_mitchell {
+  bottom: 82px;
+  left: 142px;
 }
 
 .person_name_tarter {
+  top: 79px;
+  left: 159px;
+  z-index: 1;
 }
 
 .person__image {
 }
 
 .person__image_size_l {
+  width: 145px;
+  height: 145px;
 }
 
 .person__image_size_m {
+  width: 102px;
+  height: 102px;
 }
 
 .person__image_size_s {
+  width: 75px;
+  height: 75px;
 }
 
 .person__caption {
