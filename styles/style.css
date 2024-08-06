@@ -315,14 +315,19 @@
 }
 
 .membership__steps {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-around;
   list-style-type: none;
   padding: 0;
   margin: 100px 0 0;
-  /* Adicione estilos */
 }
 
 .step {
-  /* Adicione estilos */
+  max-width: 220px;
+  gap: 40px;
+  padding: 0;
+  margin: 0;
 }
 
 .step__title {
