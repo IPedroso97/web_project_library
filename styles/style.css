@@ -317,15 +317,16 @@
 .membership__steps {
   display: flex;
   flex-flow: row nowrap;
-  justify-content: space-evenly;
+  justify-content: space-between;
   list-style-type: none;
+  column-gap: 40px;
   padding: 0;
-  margin: 100px 0 0;
+  margin: 100px 100px 0;
 }
 
 .step {
   max-width: 220px;
-  gap: 40px;
+
   padding: 0;
   margin: 0;
 }
