@@ -279,22 +279,19 @@
 }
 
 .person__image {
-  max-width: fit-content;
+  max-width: 100%;
 }
 
 .person__image_size_l {
-  width: 145px;
-  height: 145px;
+  width: 140px;
 }
 
 .person__image_size_m {
-  width: 102px;
-  height: 102px;
+  width: 100px;
 }
 
 .person__image_size_s {
-  width: 75px;
-  height: 75px;
+  width: 80px;
 }
 
 .person__caption {
