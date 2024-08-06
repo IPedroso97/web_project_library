@@ -244,47 +244,38 @@
 }
 
 .person {
-  /* position: absolute;
+  position: absolute;
   display: flex;
   align-items: center;
   flex-direction: column;
-  gap: 10px; */
+  gap: 10px;
 }
 
 .person_name_feynman {
-  /* Use os valores corretos das propriedades top/right/bottom/left para posicionar o elemento */
 }
 
 .person_name_burbidge {
-  /* Use os valores corretos das propriedades top/right/bottom/left para posicionar o elemento */
 }
 
 .person_name_cannon {
-  /* Use os valores corretos das propriedades top/right/bottom/left para posicionar o elemento */
 }
 
 .person_name_mitchell {
-  /* Use os valores corretos das propriedades top/right/bottom/left para posicionar o elemento */
 }
 
 .person_name_tarter {
-  /* Use os valores corretos das propriedades top/right/bottom/left para posicionar o elemento */
 }
 
 .person__image {
-  /* max-width: 100%; */
 }
 
 .person__image_size_l {
-  /* width: 140px; */
 }
 
 .person__image_size_m {
-  /* width: 100px; */
 }
 
 .person__image_size_s {
-  /* width: 80px; */
 }
 
 .person__caption {
