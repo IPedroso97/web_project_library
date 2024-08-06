@@ -317,7 +317,7 @@
 .membership__steps {
   display: flex;
   flex-flow: row nowrap;
-  justify-content: space-around;
+  justify-content: space-evenly;
   list-style-type: none;
   padding: 0;
   margin: 100px 0 0;
