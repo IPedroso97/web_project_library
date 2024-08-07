@@ -360,12 +360,12 @@
 }
 
 .footer__column_content_hours {
-  margin-right: 80px;
+  margin-right: 40px;
   margin-left: auto;
 }
 
 .footer__column_content_social {
-  margin: 0;
+  margin-left: 40px;
 }
 
 .footer__logo {
@@ -375,7 +375,7 @@
 }
 
 .footer__column-heading {
-  margin: 0;
+  margin: 0 0 20px;
 }
 
 .footer__list {
