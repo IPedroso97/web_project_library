@@ -357,20 +357,21 @@
 
 .footer__columns {
   display: flex;
-  flex-flow: row nowrap;
-  justify-content: space-between;
-  row-gap: 80px;
 }
 
 .footer__column_content_hours {
+  margin-right: 40px;
+  margin-left: auto;
 }
 
 .footer__column_content_social {
+  margin-left: 40px;
 }
 
 .footer__logo {
   width: 58px;
   height: 80px;
+  margin-right: auto;
 }
 
 .footer__column-heading {
@@ -384,7 +385,7 @@
 }
 
 .footer__list-item {
-  margin: 16px 0 0;
+  margin-top: 16px;
 }
 
 .footer__column-link {
